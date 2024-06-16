@@ -3,7 +3,7 @@
   * [🚀 Data Science Project](1-a-new-environment/1-data-science-project.md)
   * [🥮 Object Storage](1-a-new-environment/2-minio-object-storage.md)
   * [🎶 Notebook Setup](1-a-new-environment/3-notebook-setup.md)
-  * [🐙 GitOps](1-a-new-environment/4-argocd.md)
+  * [🐙 GitOps](1-a-new-environment/4-gitops.md)
 * [2. The Data Awakens](2-the-data-awakens/README.md)
 * [3. The Training of the Model](3-the-training-of-the-model/README.md)
 * [4. The Model Strikes Back](4-the-model-strikes-back/README.md)
