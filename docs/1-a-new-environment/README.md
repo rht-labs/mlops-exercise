@@ -20,5 +20,5 @@ TODO: add diagram
 * OpenShift 4.15+
 * OpenShift AI
 * Jupyter Notebook
-* Helm
-* Minio for S3-compitable storage
+* Helm & Argo CD
+* Minio
