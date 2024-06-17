@@ -13,12 +13,11 @@ TODO: add diagram
 
 ## 🔮 Learning Outcomes
 
-- [ ] Get familiar with OpenShift & OpenShift AI and foundational practices like GitOps
+- [ ] Get familiar with OpenShift & OpenShift AI
 - [ ] Deploy the necessary toolings to start experimenting
 
 ## 🔨 Tools used in this exercise!
 * OpenShift 4.15+
 * OpenShift AI 2.9+
 * Jupyter Notebook
-* Helm & Argo CD
 * Minio
