@@ -1,5 +1,5 @@
 # Exercise 1 - The Rise of the Cluster
-> Install the cluster, configure infrastructure applications 
+> Create the development environment, deploy the required tools to experimentation
 
 ## 👨‍🍳 Exercise Intro
 
@@ -13,12 +13,11 @@ TODO: add diagram
 
 ## 🔮 Learning Outcomes
 
-- [ ] Get familiar with OpenShift & OpenShift AI and foundational practices like GitOps
-- [ ] Can get the necessary toolings to start experimenting
+- [ ] Get familiar with OpenShift & OpenShift AI
+- [ ] Deploy the necessary toolings to start experimenting
 
 ## 🔨 Tools used in this exercise!
 * OpenShift 4.15+
-* OpenShift AI
+* OpenShift AI 2.9+
 * Jupyter Notebook
-* Helm
-* Minio for S3-compitable storage
+* Minio
