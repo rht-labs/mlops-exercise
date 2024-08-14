@@ -1,11 +1,6 @@
 * [Home](/)
-* [1. A New Environment ](1-a-new-environment/README.md)
-  * [🚀 Data Science Project](1-a-new-environment/1-data-science-project.md)
-  * [🥮 Object Storage](1-a-new-environment/2-minio-object-storage.md)
-  * [🎶 Notebook Setup](1-a-new-environment/3-notebook-setup.md)
-  * [✨ Git Setup](1-a-new-environment/4-git-setup.md)
-* [2. The Data Awakens](2-the-data-awakens/README.md)
-* [3. The Training of the Model](3-the-training-of-the-model/README.md)
-* [4. The Model Strikes Back](4-the-model-strikes-back/README.md)
-* [5. Return of the Monitoring](5-return-of-the-monitoring/README.md)
-* [6. Rise of the Cluster](6-rise-of-the-cluster/README.md)
+* [1. When the Music Starts](1-when-the-music-starts/README.md)
+  * [🚀 Data Science Project](1-when-the-music-starts/1-data-science-project.md)
+  <!-- * [🥮 Object Storage](1-when-the-music-starts/2-minio-object-storage.md) -->
+  <!-- * [🎶 Notebook Setup](1-when-the-music-starts/3-notebook-setup.md) -->
+  * [✨ Git Setup](1-when-the-music-starts/4-git-setup.md)

@@ -1,4 +1,4 @@
-# 🍷 MLOps Lab Exercises (ML500)
+# 🎸 🎶 MLOps Lab Exercises (ML500)
 
 
 ## Slide Decks

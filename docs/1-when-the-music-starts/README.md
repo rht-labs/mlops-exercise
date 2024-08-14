@@ -1,5 +1,5 @@
-# Exercise 1 - The Rise of the Cluster
-> Create the development environment, deploy the required tools to experimentation
+# Exercise 1 - When the Music Starts
+> Get familiar with the OpenShift AI environment, deploy the required tools to experimentation
 
 ## 👨‍🍳 Exercise Intro
 
@@ -18,6 +18,6 @@ TODO: add diagram
 
 ## 🔨 Tools used in this exercise!
 * OpenShift 4.15+
-* OpenShift AI 2.9+
+* OpenShift AI 2.10+
 * Jupyter Notebook
 * Minio

@@ -1,7 +1,6 @@
 ## Setup GitLab
 
-
-> In this exercise we’ll setup our git project to store our code and configuration. We will then connect Argo CD (our GitOps controller) to this git repository to enable the GitOps workflow.
+> In this exercise we’ll setup our git project to store our code and configuration. Spoiler alert: be watch out for GitOps :)
 
 
 1. Log into GitLab with your credentials. GitLab URL [here](https://<GIT_SERVER>):
