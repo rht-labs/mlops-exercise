@@ -6,15 +6,15 @@ ML500 <!-- {.element: class="title-color"} -->
 
 
 #### The Backstory 
-KRAP Records is a mid-sized independent record label struggling to break into the global music market. 
+KRAP Records, founded in the 1970s by visionary brothers Karl and Ralph Peters, was once a powerhouse in the music industry, launching legendary artists and shaping musical trends. 
 
 
 
-They have a roster of talented artists but face challenges in identifying the right markets for their music and understanding the evolving tastes of global audiences. 
+However, the tides of the music industry changed dramatically over the decades. By the early 21st century, KRAP Records found itself struggling in identifying the right markets for their music and understanding the evolving tastes of global audiences. 
 
 
 
-They recognize the potential of AI to revolutionize their decision-making process and are seeking a technology partner to develop a predictive model that can analyze music and market trends to optimize their release strategy.
+Now managed by their grandchildren, the label recognizes the potential of AI to revolutionize their decision-making process and are seeking a technology partner to develop a predictive model that can analyze music and market trends to optimize their release strategy.
 
 
 
