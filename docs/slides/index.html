@@ -1,0 +1,135 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>TL500 - Slides TOC</title>
+	</head>
+	<body>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/1.6/jquery.rwdImageMaps.min.js" integrity="sha512-eZB7hQa0bRlrKMQ2njpP0d/Klu6o30Gsr8e5FUCjUT3fSlnVkm/1J14n58BuwgaMuObrGb7SvUfQuF8qFsPU4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+		<div class="banner">
+			<img class="redhat-logo" src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark--200.png" alt="" aria-hidden="true" style="margin:0;width: 135px;">
+		</div>
+		<br>
+		<div class="row">
+			<div class="column">
+					<img src="./complete-loop.png" usemap="#mymap" alt="">
+			</div>
+		</div>
+		<div class="">
+			<div class="">
+				<br>
+				<table  class="center">
+					<tr>
+						<th>Slides</th>
+						<th>Description</th>
+					</tr>
+
+					<tr>
+						<td>
+							<a href="content?name=krap-records"
+								target="_blank">Krap Records</a>
+						</td>
+						<td>📚 Set the scene with our usecase for the course </td>
+					</tr>
+			</table>
+		</div>
+	</div>
+		<script>
+			$(document).ready(function(e) {
+				$('img[usemap]').rwdImageMaps();
+			});
+		</script>
+    <style>
+				html,body {
+						height:100%;
+				}
+				h1, h2, h3, h4, h5, h6 {
+						margin-bottom: 0.5rem;
+						font-weight: 400;
+						line-height: 1.5;
+				}
+				h1 {
+						font-size: 2.5rem;
+				}
+				h2 {
+						font-size: 2rem
+				}
+				h3 {
+						font-size: 1.75rem
+
+				}
+				h4 {
+						font-size: 1.5rem
+				}
+				h5 {
+						font-size: 1.25rem
+				}
+				h6 {
+						font-size: 1rem
+				}
+				.lead {
+						font-weight: 300;
+						font-size: 2rem;
+				}
+				.banner {
+						font-size: 2.7rem;
+						margin: 0;
+						padding: .5rem 1.5rem;
+						background-color: black;
+						color: white;
+				}
+				.container {
+						display: flex;
+						width: 100%;
+				}
+				body {
+						margin: 0;
+						font-family: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+						overflow-x: hidden;
+				}
+				code {
+						font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+						font-size: 87.5%;
+						color: #e83e8c;
+						word-break: break-word;
+				}
+				iframe {
+						margin-top: 0px;
+						width: 100%;
+						height: 1000px;
+						border: 0;
+						position: relative;
+				}
+			div {
+				width: 100%;
+			}
+			img[usemap] {
+						display: block;
+						margin-left: auto;
+						margin-right: auto;
+				border: none;
+				max-width: 100%;
+			}
+				.column-left {
+						float: left;
+						width: 66.666%;
+				}
+				.column-right {
+						float: right;
+						width: 30.333%;
+				}
+				.dataTables_filter, .dataTables_info {
+						display: none;
+				}
+		</style>
+
+		<script>
+				function openSlides(name) {
+					console.info("Opening ", name)
+				}
+		</script>
+	</body>
+</html>
